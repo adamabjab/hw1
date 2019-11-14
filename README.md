@@ -1,6 +1,1 @@
-name
-id
-
-
-hw1
-2019
+Adam Abu Jabal 316109107
